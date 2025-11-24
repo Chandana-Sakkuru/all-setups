@@ -16,4 +16,4 @@ df -h /tmp
 sudo systemctl restart jenkins
 
 
-Hai, Today im practicing poll scm concept in jenkins
+Hai
