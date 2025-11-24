@@ -15,5 +15,3 @@ sudo systemctl mask tmp.mount
 df -h /tmp
 sudo systemctl restart jenkins
 
-
-Hai hello
