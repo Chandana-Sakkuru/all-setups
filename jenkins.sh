@@ -17,4 +17,4 @@ sudo systemctl restart jenkins
 
 
 
-#This is the jenkins code
+#This is the jenkins setup code 
