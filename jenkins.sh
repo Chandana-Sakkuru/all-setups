@@ -16,4 +16,4 @@ df -h /tmp
 sudo systemctl restart jenkins
 
 
-#this is a new ha
+#this is a new jenkins job
