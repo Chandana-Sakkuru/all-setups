@@ -17,4 +17,4 @@ sudo systemctl restart jenkins
 
 
 
-#This is going to be the jenkins code to install in the server
+#Hi hello
