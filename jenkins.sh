@@ -17,4 +17,4 @@ sudo systemctl restart jenkins
 
 
 
-#Hi hello, this is the jenkins code to install
+#namaste, hi
